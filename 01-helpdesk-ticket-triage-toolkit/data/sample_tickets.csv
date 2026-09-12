@@ -1,0 +1,36 @@
+ticket_id,subject,description,requester,submitted_at,status
+T-1001,URGENT: file server is down for the entire team,Nobody in finance can access shared drives since 8am,ayo.balogun@vortexai654.onmicrosoft.com,2026-09-11 08:05,Open
+T-1002,VPN won't connect from home,Getting a timeout error every time I try to connect,priya.nair@vortexai654.onmicrosoft.com,2026-09-11 20:30,Open
+T-1003,Locked out of my account forgot password,Tried resetting but the email never arrived,elena.owusu@vortexai654.onmicrosoft.com,2026-09-09 14:00,Open
+T-1004,Outlook keeps crashing when I open a calendar invite,Happens on both my laptop and desktop,maria.santos@vortexai654.onmicrosoft.com,2026-09-10 09:15,Closed
+T-1005,No rush just a question about signature formatting,How do I add the company logo to my email signature,derek.chan@vortexai654.onmicrosoft.com,2026-09-11 16:00,Open
+T-1006,Printer on 3rd floor won't turn on,Tried the power button multiple times no lights at all,jasmine.reyes@vortexai654.onmicrosoft.com,2026-09-08 11:00,Open
+T-1007,Suspicious phishing email asking for my password,It looks like it is from IT but the link goes to a strange domain,oluwaseun.adeyemi@vortexai654.onmicrosoft.com,2026-09-11 22:10,Open
+T-1008,Wi-Fi keeps dropping in the east wing conference rooms,Started this week affects multiple people,grace.kimura@vortexai654.onmicrosoft.com,2026-09-07 13:30,Closed
+T-1009,Cannot install the new CRM client error message appears,Error code 0x8007005 during install,tomas.novak@vortexai654.onmicrosoft.com,2026-09-11 10:45,Open
+T-1010,URGENT production outage nobody can process orders,The order system has been down since this morning entire team blocked,linda.osei@vortexai654.onmicrosoft.com,2026-09-12 00:10,Open
+T-1011,MFA authenticator app not generating codes,Reinstalled the app but still no luck,ben.fraser@vortexai654.onmicrosoft.com,2026-09-10 19:20,Open
+T-1012,Docking station not charging my laptop,Laptop battery drains even when docked,chidinma.eze@vortexai654.onmicrosoft.com,2026-09-11 15:00,Closed
+T-1013,SharePoint site missing after reorg,The marketing team site returns a 404,hannah.oconnell@vortexai654.onmicrosoft.com,2026-09-06 09:00,Open
+T-1014,Minor cosmetic issue with the intranet homepage banner,The banner image is slightly cut off on mobile,samuel.otieno@vortexai654.onmicrosoft.com,2026-09-11 09:00,Open
+T-1015,Can't connect to the office network drive,Getting network path not found error,isabella.rossi@vortexai654.onmicrosoft.com,2026-09-11 21:45,Open
+T-1016,New laptop request keyboard keys sticking on current one,Several keys don't register on first press,kwame.mensah@vortexai654.onmicrosoft.com,2026-09-09 08:00,Open
+T-1017,Teams meetings keep freezing mid-call,Camera and audio both stop responding,natasha.ivanova@vortexai654.onmicrosoft.com,2026-09-11 13:20,Open
+T-1018,Malware alert from antivirus on my machine,Pop-up says a virus was detected I disconnected from wifi,olamide.bello@vortexai654.onmicrosoft.com,2026-09-11 18:00,Open
+T-1019,Excel file won't open says it's corrupted,Same file opens fine on a coworker's machine,ravi.subramaniam@vortexai654.onmicrosoft.com,2026-09-08 16:30,Open
+T-1020,Requesting a new monitor for my desk,Current one has a dead pixel cluster in the corner,zainab.hussain@vortexai654.onmicrosoft.com,2026-09-10 12:00,Closed
+T-1021,DNS not resolving internal hostnames,Can reach external sites but not internal tools,connor.walsh@vortexai654.onmicrosoft.com,2026-09-11 23:30,Open
+T-1022,Webcam not detected in Teams calls,Worked fine last week nothing changed on my end,aisha.rahman@vortexai654.onmicrosoft.com,2026-09-09 10:00,Open
+T-1023,Distribution list not receiving external emails,Internal senders work fine external bounce back,michael.obrien@vortexai654.onmicrosoft.com,2026-09-07 09:00,Closed
+T-1024,Ethernet port in my office not working,Confirmed cable is fine tested on another machine,sofia.martinez@vortexai654.onmicrosoft.com,2026-09-11 17:15,Open
+T-1025,How do I set up a shared calendar for my team,Want everyone to see each other's availability,daniel.kim@vortexai654.onmicrosoft.com,2026-09-11 11:00,Open
+T-1026,Unauthorized access attempt flagged on my account,Got an alert about a sign-in from an unfamiliar location,esther.nakato@vortexai654.onmicrosoft.com,2026-09-11 21:00,Open
+T-1027,Laptop battery draining extremely fast,From full charge to 20 percent in under two hours,victor.adeleke@vortexai654.onmicrosoft.com,2026-09-06 15:00,Open
+T-1028,Application license key rejected on activation,Says the key is already in use but I'm the only one with it,helena.petrov@vortexai654.onmicrosoft.com,2026-09-11 08:40,Open
+T-1029,OneDrive sync stuck at 99 percent for two days,Files aren't updating across my devices,marcus.thornton@vortexai654.onmicrosoft.com,2026-09-08 09:00,Open
+T-1030,URGENT all users in accounting cannot access the ERP system,Started right after the morning update entire team blocked,patricia.nguyen@vortexai654.onmicrosoft.com,2026-09-11 23:50,Open
+T-1031,Just a question about VPN split tunneling,Wondering if it's supported for our setup,abdirahman.hassan@vortexai654.onmicrosoft.com,2026-09-10 14:00,Open
+T-1032,Keyboard shortcuts stopped working in Excel,Ctrl+C and Ctrl+V do nothing now,rebecca.oyelaran@vortexai654.onmicrosoft.com,2026-09-05 10:00,Closed
+T-1033,Ransomware warning popped up on shared drive access,File names all changed to a locked extension,julian.beaulieu@vortexai654.onmicrosoft.com,2026-09-12 00:30,Open
+T-1034,Slow connection when uploading files to SharePoint,Takes 10x longer than it used to,omar.farouk@vortexai654.onmicrosoft.com,2026-09-09 17:00,Open
+T-1035,New employee needs accounts set up before Monday,Starting in the finance department needs standard access,thabo.mokoena@vortexai654.onmicrosoft.com,2026-09-11 19:00,Open
