@@ -1,0 +1,13 @@
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated at runtime by each project - committed screenshots live in screenshots/ instead
+**/output/
