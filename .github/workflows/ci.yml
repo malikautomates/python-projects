@@ -1,0 +1,39 @@
+name: CI
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  helpdesk-ticket-triage-toolkit:
+    name: Triage toolkit (Python ${{ matrix.python-version }})
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.11', '3.13']
+    defaults:
+      run:
+        working-directory: 01-helpdesk-ticket-triage-toolkit
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+          cache-dependency-path: 01-helpdesk-ticket-triage-toolkit/requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run the test suite
+        run: python -m pytest -v
+
+      - name: Run the CLI end to end against the sample data
+        run: python run.py --output-dir "$RUNNER_TEMP/triage-output" --no-charts
